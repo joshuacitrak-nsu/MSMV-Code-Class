@@ -1,0 +1,8 @@
+{
+  "name": "msmv-codes",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server -p 3000 -c-1 ."
+  },
+  "devDependencies": {}
+}

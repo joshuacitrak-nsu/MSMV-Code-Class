@@ -1,0 +1,126 @@
+🧠 Warm-Up Code Puzzles
+
+Welcome back, coders! 👾
+These warm-ups are quick puzzles to help you remember the skills we learned last year and get comfortable with GitHub + VSCode.dev again.
+
+Each puzzle should take 2–3 minutes, for a total of about 10–15 minutes.
+
+Before starting, review the four big ideas below — comments, variables, functions, and event listeners.
+
+✅ Comments
+
+Comments are little notes you write inside your code that the computer ignores.
+They are meant for humans, not machines.
+
+// This is a comment. It explains what the code does.
+
+Why we use them:
+
+They help you remember what your code does.
+
+They help other people understand your code.
+
+They help AI assistants (like Copilot!) know what you want.
+
+Think of comments like:
+
+🧡 Sticky notes in a book
+🧡 Directions written on your LEGO set
+🧡 Notes to your future self
+
+✅ Variables
+
+A variable is a box that holds information.
+
+let score = 0;    // put 0 into a box called "score"
+score = score + 1;   // update the box with a new value
+
+Why we use them:
+
+To store things your program needs to remember (score, clicks, time).
+
+To make your game change over time.
+
+Think of variables like:
+
+🟦 A bucket with a label
+🟦 A save slot in a video game
+
+✅ Functions
+
+A function is a mini-program inside your program.
+
+function addScore() {
+  // steps that run when the function is called
+}
+
+Why we use them:
+
+They keep code organized.
+
+They prevent repeating the same code everywhere.
+
+They let buttons and events trigger actions.
+
+Think of functions like:
+
+🍳 A recipe
+📦 A set of instructions you can use again and again
+
+✅ Event Listeners
+
+Event listeners make your code react to things happening on the page.
+
+button.addEventListener("click", addScore);
+
+
+This means:
+
+“When someone clicks this button, run the addScore function.”
+
+Why we use them:
+
+They make your project interactive!
+
+Buttons work, games run, animations start, timers tick.
+
+Think of event listeners like:
+
+👀 A referee watching the game
+🎮 A controller button being pressed
+
+✅ Your Warm-Up Puzzles
+
+You will find these folders in this repository:
+
+warmups/
+  01-comment-to-code
+  02-wire-the-button
+  03-comment-detective
+  04-predict-the-output
+  05-bug-hunt
+
+
+Open each folder, read the instructions in the script.js file,
+and complete the tiny challenge.
+
+Pro Tips:
+
+✅ Read the comments first — they tell you exactly what to do.
+✅ Use console.log() if you want to peek at what’s happening.
+✅ Commit your work after each puzzle.
+
+⭐ After You Finish
+
+Make sure you commit your changes:
+
+Click the Source Control icon
+
+Type a message
+
+Press Commit & Push
+
+Show your Joshua your finished puzzles.
+
+Get ready for the main project of the day!
+
